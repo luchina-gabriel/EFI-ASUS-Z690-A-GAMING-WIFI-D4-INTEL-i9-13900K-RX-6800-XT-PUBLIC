@@ -1,5 +1,7 @@
 # Hackintosh, Asus Strix Z690-A Gaming Wifi D4, Intel Core i9 13900K, AMD Radeon RX 6800 XT
 
+![Overview](https://github.com/luchina-gabriel/EFI-ASUS-Z690-A-GAMING-WIFI-D4-INTEL-i9-13900K-RX-6800-XT-PUBLIC/assets/23700365/6f22620a-3889-4a6a-8ff7-52516162d18b)
+
 # Basic Information
 
 **Latest working macOS**: macOS Sonoma (14.5)
