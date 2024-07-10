@@ -8,7 +8,7 @@
 <br>
 **Current OpenCore**: 1.0.0
 <br>
-**Release date**: 19/06/2024
+**Release date**: 09/07/2024
 
 # Hackintosh Specifications
 |Item|Description|
